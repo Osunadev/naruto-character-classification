@@ -1,1 +1,1 @@
-Init
+This repo only contains the 30 images of 10 different naruto characters.
